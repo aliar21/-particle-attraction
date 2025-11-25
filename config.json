@@ -1,0 +1,12 @@
+{
+  "window_width": 800,
+  "window_height": 400,
+  "animation_speed": 60,
+  "background_color": [20, 20, 20],
+  "gravity_strength": 0.2,
+  "mouse_repulsion_radius": 80,
+  "mouse_repulsion_force": 2.5,
+  "particle_color": [255, 255, 255],
+  "particle_size": 3,
+  "image_path": "assets/text.png"
+}
