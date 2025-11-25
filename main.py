@@ -98,9 +98,7 @@ def load_image_points(cfg):
 
     print(f"[img] points found: {len(points)} (step={step})")
     return points, img.get_width(), img.get_height()
-# -----------------------------
-# CREATE PARTICLE SYSTEM
-# -----------------------------
+
 def create_particle_system_from_image(cfg):
     points, img_w, img_h = load_image_points(cfg)
 
